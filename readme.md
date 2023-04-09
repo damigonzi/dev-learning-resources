@@ -20,8 +20,11 @@
 4. **[HTML: HTML5 Semantics](https://www.freecodecamp.org/news/semantic-html5-elements/)**
 5. **[HTML: Open Graph Protocol](https://ogp.me/)**
 6. **[HTML: Open Graph Social Metadata Example](https://www.freecodecamp.org/news/what-is-open-graph-and-how-can-i-use-it-for-my-website/)**
-7. **[BOOTSTRAP FRAMEWORK: How to use Bootstrap with HTML](https://www.bootstrapdash.com/blog/use-bootstrap-with-html)**
-8. **[BOOTSTRAP FRAMEWORK: Bootstrap Examples](https://getbootstrap.com/docs/5.2/examples/)**
+7. **[HTML: Input Types](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)**
+8. **[HTML: Sending Form Data (HTTPS Resp)](https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)**
+9. **[HTML: Client Side Validation](https://www.sitepoint.com/client-side-form-validation-html5/)**
+10. **[BOOTSTRAP FRAMEWORK: How to use Bootstrap with HTML](https://www.bootstrapdash.com/blog/use-bootstrap-with-html)**
+12. **[BOOTSTRAP FRAMEWORK: Bootstrap Examples](https://getbootstrap.com/docs/5.2/examples/)**
 
 
 ## BACK END

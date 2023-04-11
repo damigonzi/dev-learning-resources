@@ -23,10 +23,12 @@
 7. **[HTML: OGP - Social Metadata Example](https://www.freecodecamp.org/news/what-is-open-graph-and-how-can-i-use-it-for-my-website/)**
 8. **[HTML: Forms - Input Types](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)**
 9. **[HTML: Forms - Sending Form Data (RestAPI)](https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)**
-10. **[HTML: Security - Client Side Validation](https://www.sitepoint.com/client-side-form-validation-html5/)**
-11. **[HTML: 2D/3D Rendering - HTML5 Canvas](https://www.tutorialrepublic.com/html-tutorial/html5-canvas.php)**
-12. **[BOOTSTRAP FRAMEWORK: How to use Bootstrap with HTML](https://www.bootstrapdash.com/blog/use-bootstrap-with-html)**
-13. **[BOOTSTRAP FRAMEWORK: Bootstrap Examples](https://getbootstrap.com/docs/5.2/examples/)**
+10. **[HTML: Embedding - HTML Embedded Options](https://html.com/media/)**
+11. **[HTML: Security - Choosing the Correct Embedding](https://html.com/media/)**
+12. **[HTML: Security - Client Side Form Validation](https://www.sitepoint.com/client-side-form-validation-html5/)**
+13. **[HTML: Animation Rendering - HTML5 Canvas](https://www.tutorialrepublic.com/html-tutorial/html5-canvas.php)**
+14. **[BOOTSTRAP FRAMEWORK: How to use Bootstrap with HTML](https://www.bootstrapdash.com/blog/use-bootstrap-with-html)**
+15. **[BOOTSTRAP FRAMEWORK: Bootstrap Examples](https://getbootstrap.com/docs/5.2/examples/)**
 
 
 ## BACK END

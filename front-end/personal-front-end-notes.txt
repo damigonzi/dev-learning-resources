@@ -1,0 +1,18 @@
+Front End Notes:
+1. HTML is the structure of the web page
+  a. Head contains meta data
+  b. Good meta data allows for search engines to better find your web page (SEO)
+2. HTML Semantics are important for proper web page layouts/structure
+  a. Good semantics allow for better accessibility tools to work with your web page
+  b. Good semantics allows for some search engines / tools to better read your web page
+3. HTML Forms can receive user input and redirect users to a new webpage or allow users to submit data via a Rest API
+4. Open Graph Protocol is so other websites can easily embed valueable info from your web page ("Social media card")
+5. HTML allows you to embed videos/audio/images
+6. The web browsers like Chrome are built in with buttons, video players, calendar date selectors, etc.
+7. HTML5 Canvas allows you to render 2D/3D motion graphics via Javascript on the webpage
+8. Some people will take advantage of your web page vulnerabilities. It is important to add best practices to avoid attacks.
+  a. Server side validation is better than client side validation, since users can manipulate the HTML/Javascript in their web browser
+  b. HTTPS PUT is less secure than HTTPS GET, because with PUT the meta data is contained in the URL itself. This is then stored in the users browsers
+     history until they delete it. If a credit card number was sent via HTTPS PUT, then the valuable information may be held in the web browser cache/history
+     for some time. With HTTPS Get, the meta data is sent via the body of the JSON, thereofore, not stored in the browser memory.
+  c. iFrames are not secure and best if not used.

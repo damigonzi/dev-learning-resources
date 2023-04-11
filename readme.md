@@ -16,15 +16,17 @@
 ## FRONT END
 1. **[Web Design Inspiration](https://httpster.net/)**
 2. **[Website full of icons](https://icons8.com/)**
-3. **[HTML: HTML Meta Tags](https://www.dofactory.com/html/metatags)**
-4. **[HTML: HTML5 Semantics](https://www.freecodecamp.org/news/semantic-html5-elements/)**
-5. **[HTML: Open Graph Protocol](https://ogp.me/)**
-6. **[HTML: Open Graph Social Metadata Example](https://www.freecodecamp.org/news/what-is-open-graph-and-how-can-i-use-it-for-my-website/)**
-7. **[HTML: Input Types](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)**
-8. **[HTML: Sending Form Data (HTTPS Resp)](https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)**
-9. **[HTML: Client Side Validation](https://www.sitepoint.com/client-side-form-validation-html5/)**
-10. **[BOOTSTRAP FRAMEWORK: How to use Bootstrap with HTML](https://www.bootstrapdash.com/blog/use-bootstrap-with-html)**
-12. **[BOOTSTRAP FRAMEWORK: Bootstrap Examples](https://getbootstrap.com/docs/5.2/examples/)**
+3. **[HTML: Basics - HTML Living Standard](https://html.spec.whatwg.org/multipage/)**
+4. **[HTML: Basics - HTML Head Meta Tags](https://www.dofactory.com/html/metatags)**
+5. **[HTML: Basics - HTML5 Semantics (SEO)](https://www.freecodecamp.org/news/semantic-html5-elements/)**
+6. **[HTML: OGP - Open Graph Protocol (Embedding)](https://ogp.me/)**
+7. **[HTML: OGP - Social Metadata Example](https://www.freecodecamp.org/news/what-is-open-graph-and-how-can-i-use-it-for-my-website/)**
+8. **[HTML: Forms - Input Types](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)**
+9. **[HTML: Forms - Sending Form Data (RestAPI)](https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)**
+10. **[HTML: Security - Client Side Validation](https://www.sitepoint.com/client-side-form-validation-html5/)**
+11. **[HTML: 2D/3D Rendering - HTML5 Canvas](https://www.tutorialrepublic.com/html-tutorial/html5-canvas.php)**
+12. **[BOOTSTRAP FRAMEWORK: How to use Bootstrap with HTML](https://www.bootstrapdash.com/blog/use-bootstrap-with-html)**
+13. **[BOOTSTRAP FRAMEWORK: Bootstrap Examples](https://getbootstrap.com/docs/5.2/examples/)**
 
 
 ## BACK END

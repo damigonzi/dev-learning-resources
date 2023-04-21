@@ -16,3 +16,5 @@ Front End Notes:
      history until they delete it. If a credit card number was sent via HTTPS PUT, then the valuable information may be held in the web browser cache/history
      for some time. With HTTPS Get, the meta data is sent via the body of the JSON, thereofore, not stored in the browser memory.
   c. iFrames are not secure and best if not used.
+9. CSS Psuedo-elements allow you to style a specific part of an element, like the first word, selected text, hover, etc.
+

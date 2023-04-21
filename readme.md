@@ -14,21 +14,27 @@
 2. **[VIM Cheat Sheet 02](https://devhints.io/vim)**
 
 ## FRONT END
-1. **[Web Design Inspiration](https://httpster.net/)**
-2. **[Website full of icons](https://icons8.com/)**
-3. **[HTML: Basics - HTML Living Standard](https://html.spec.whatwg.org/multipage/)**
-4. **[HTML: Basics - HTML Head Meta Tags](https://www.dofactory.com/html/metatags)**
-5. **[HTML: Basics - HTML5 Semantics (SEO)](https://www.freecodecamp.org/news/semantic-html5-elements/)**
-6. **[HTML: OGP - Open Graph Protocol (Embedding)](https://ogp.me/)**
-7. **[HTML: OGP - Social Metadata Example](https://www.freecodecamp.org/news/what-is-open-graph-and-how-can-i-use-it-for-my-website/)**
-8. **[HTML: Forms - Input Types](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)**
-9. **[HTML: Forms - Sending Form Data (RestAPI)](https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)**
-10. **[HTML: Embedding - HTML Embedded Options](https://html.com/media/)**
-11. **[HTML: Security - Choosing the Correct Embedding](https://html.com/media/)**
-12. **[HTML: Security - Client Side Form Validation](https://www.sitepoint.com/client-side-form-validation-html5/)**
-13. **[HTML: Animation Rendering - HTML5 Canvas](https://www.tutorialrepublic.com/html-tutorial/html5-canvas.php)**
-14. **[BOOTSTRAP FRAMEWORK: How to use Bootstrap with HTML](https://www.bootstrapdash.com/blog/use-bootstrap-with-html)**
-15. **[BOOTSTRAP FRAMEWORK: Bootstrap Examples](https://getbootstrap.com/docs/5.2/examples/)**
+1. **[EXAMPLE: Web Design Inspiration](https://httpster.net/)**
+2. **[EXAMPLE: Icon Packs](https://icons8.com/)**
+3. **[EXAMPLE: CSS Grid Templates](https://1stwebdesigner.com/fascinating-css-grid-layout-examples-and-tutorials/)**
+4. **[EXAMPLE: CSS Layouts and Patterns Templates](https://csslayout.io/)**
+5. **[HTML: Basics - HTML Living Standard](https://html.spec.whatwg.org/multipage/)**
+6. **[HTML: Basics - HTML Head Meta Tags](https://www.dofactory.com/html/metatags)**
+7. **[HTML: Basics - HTML5 Semantics (SEO)](https://www.freecodecamp.org/news/semantic-html5-elements/)**
+8. **[HTML: OGP - Open Graph Protocol (Embedding)](https://ogp.me/)**
+9. **[HTML: OGP - Social Metadata Example](https://www.freecodecamp.org/news/what-is-open-graph-and-how-can-i-use-it-for-my-website/)**
+10. **[HTML: Forms - Input Types](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)**
+11. **[HTML: Forms - Sending Form Data (RestAPI)](https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)**
+12. **[HTML: Embedding - HTML Embedded Options](https://html.com/media/)**
+13. **[HTML: Security - Choosing the Correct Embedding](https://html.com/media/)**
+14. **[HTML: Security - Client Side Form Validation](https://www.sitepoint.com/client-side-form-validation-html5/)**
+15. **[HTML: Animation Rendering - HTML5 Canvas](https://www.tutorialrepublic.com/html-tutorial/html5-canvas.php)**
+16. **[BOOTSTRAP FRAMEWORK: How to use Bootstrap with HTML](https://www.bootstrapdash.com/blog/use-bootstrap-with-html)**
+17. **[BOOTSTRAP FRAMEWORK: Bootstrap Examples](https://getbootstrap.com/docs/5.2/examples/)**
+18. **[CSS: Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**
+19. **[CSS: Grid Guide 01](https://learncssgrid.com/)**
+20. **[CSS: Grid Guide 02](https://web.dev/learn/css/grid/)**
+21. **[CSS: Viewport Guide](https://www.educba.com/css-viewport/)**
 
 
 ## BACK END
